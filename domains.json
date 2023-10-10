@@ -1,1 +1,8 @@
-
+{
+  "domains": [
+    "example-phishing-domain1.com",
+    "another-phishing-domain.net",
+    "malicious-url.org",
+    "fake-login-site.com"
+  ]
+}
